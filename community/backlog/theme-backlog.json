@@ -1224,10 +1224,10 @@
     "backgroundColor": "oklch(14.0% 0.010 270.0 / 1)",
     "mainColor": "oklch(72.0% 0.055 200.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.095 320.0 / 1)",
-    "issued": true,
+    "issued": false,
     "completed": false,
-    "completedBy": "magnet78",
-    "completedPR": 17719
+    "completedBy": "ItsLasa",
+    "completedPR": 17833
   },
   {
     "id": "festival-yatai",

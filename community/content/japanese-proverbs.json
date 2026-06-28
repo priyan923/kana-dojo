@@ -5,13 +5,13 @@
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss"
   },
- ,
-{
-  "japanese": "猿も木から落ちる",
-  "romaji": "Saru mo ki kara ochiru", 
-  "english": "Even monkeys fall from trees",
-  "meaning": "Even experts make mistakes"
-} {
+  {
+    "japanese": "猿も木から落ちる",
+    "romaji": "Saru mo ki kara ochiru",
+    "english": "Even monkeys fall from trees",
+    "meaning": "Even experts make mistakes"
+  },
+  {
     "japanese": "馬子にも衣装",
     "romaji": "Mago ni mo ishou",
     "english": "Even a packhorse driver looks good in fine clothes",
@@ -268,5 +268,11 @@
     "romaji": "Ishi no ue ni mo san nen",
     "english": "Three years on a stone",
     "meaning": "Perseverance brings success"
+  },
+  {
+    "japanese": "井の中の蛙大海を知らず",
+    "romaji": "I no naka no kawazu taikai wo shirazu",
+    "english": "A frog in a well does not know the great sea",
+    "meaning": "Limited experience limits perspective"
   }
 ]

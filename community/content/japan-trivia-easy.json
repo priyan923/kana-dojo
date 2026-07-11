@@ -381,6 +381,35 @@
     "Seaweed"
   ],
   "correctIndex": 0
+},
+{
+  "question": "Which Japanese city is known for the famous bamboo grove? (Community variation 31)",
+  "difficulty": "easy",
+  "answers": [
+    "Kyoto",
+    "Tokyo",
+    "Sapporo",
+    "Fukuoka"
+  ],
+  "correctIndex": 0
+},
+{
+  "question": "What is the name of the bullet train network in Japan? (Community variation 2)",
+  "difficulty": "easy",
+  "answers": [
+    "Shinkansen",
+    "Metro Line",
+    "Skyrail",
+    "Kairo"
+  ],
+  "correctIndex": 0
+},
+
+{
+  "question": "What is the Japanese term for cherry blossoms?",
+  "difficulty": "easy",
+  "answers": ["Sakura", "Ume", "Momiji", "Kiku"],
+  "correctIndex": 0
 }
 ]
 
